@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Animated TabBar</h1>
+<h2>Animated TabBar [forked that compatible reanimated v2]</h2>
+
 
 [![npm](https://img.shields.io/npm/v/@gorhom/animated-tabbar?style=flat-square)](https://www.npmjs.com/package/@gorhom/animated-tabbar) [![npm](https://img.shields.io/npm/l/@gorhom/animated-tabbar?style=flat-square)](https://www.npmjs.com/package/@gorhom/animated-tabbar) [![npm](https://img.shields.io/badge/types-included-blue?style=flat-square)](https://www.npmjs.com/package/@gorhom/animated-tabbar)
 
@@ -10,6 +11,17 @@ A **60FPS** animated tab bar with a variety of cool animation presets 😎
 </div>
 
 ---
+
+<h5 style="color: 'tomato'">Notes: tested with version RN 0.66.x + Reanimated 2.2.4</h5>
+
+<h3>How to use: </h3>
+<h4> change origin package with this git in package.json </h4>
+```json
+"dependencies": {
+  ...
+  "@gorhom/animated-tabbar": "git://github.com/Ppang0405/react-native-animated-tabbar.git#dev",
+}
+```
 
 ## Table of Contents
 
