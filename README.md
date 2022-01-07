@@ -16,7 +16,8 @@ A **60FPS** animated tab bar with a variety of cool animation presets 😎
 
 <h3>How to use: </h3>
 <h4> change origin package with this git in package.json </h4>
-```
+
+```js
 "dependencies": {
   ...
   "@gorhom/animated-tabbar": "git://github.com/Ppang0405/react-native-animated-tabbar.git#dev",
